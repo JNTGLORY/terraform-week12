@@ -22,6 +22,6 @@ output "my-var" {
 }
 
 module "vpc" {
-  source = "github.com/kserge2001/terraform-week7"
+  source = "github.com/JNTGLORY/terraform-week12.git"
 }
 
